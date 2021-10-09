@@ -8,12 +8,12 @@
 
 ### Languages and Tools:
 - Visual Studio Code
+- Github
 - HTML
 - CSS
 - JavaScript
 - Python
 - MySQL
-- Github
 - Octave
 - Dockers
 - Shell Script
