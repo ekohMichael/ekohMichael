@@ -1,4 +1,4 @@
-### Hi there, I'm Michael - aka [ekohMichael][website] 👋
+### Hi there, I'm Michael - aka [ekohMichael]👋
 
 
 ## I'm a Developer, Project Management Professional and Executive Coach!!
