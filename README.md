@@ -14,4 +14,8 @@
 - Python
 - MySQL
 - Github
-- 
+- Octave
+- Dockers
+- Shell Script
+- Terraform
+- Git
